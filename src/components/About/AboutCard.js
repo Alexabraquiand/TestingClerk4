@@ -8,26 +8,29 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Welcome to our <span className="purple">safe </span>
+            and <span className="purple"> secure.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            chat platform
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            Inspired by Omegle, our site ensures a fun and 
+            anonymous chatting experience with enhanced safety measures. 
+            Our advanced AI filters actively monitor and secure conversations, 
+            providing a safe environment for users to connect and interact. 
+            Enjoy chatting with confidence, knowing your safety is our top priority.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            We have:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> AI Chat Filters who make sure to keep things appropriate
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Monitors to keep the environment safe
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> AI Detectors who will ban inappropriate users from this platform
             </li>
           </ul>
 
